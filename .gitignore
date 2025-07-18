@@ -1,0 +1,10 @@
+# Folder dependensi Node.js
+discord-bot/node_modules/
+
+# File kunci rahasia Firebase
+# JANGAN PERNAH UPLOAD FILE INI KE GITHUB
+discord-bot/serviceAccountKey.json
+
+# File sistem operasi yang tidak perlu
+.DS_Store
+Thumbs.db
